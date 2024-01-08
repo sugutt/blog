@@ -1,12 +1,12 @@
-site_name: jxnl.co
-site_author: Jason Liu
+site_name: sugutt.co
+site_author: Emmanuel Sugutt
 site_description: >-
   Notes about my hobbies and other things I find interesting.
 repo_name: blog
-repo_url: https://github.com/jxnl/blog/
-site_url: https://jxnl.github.io/blog/
+repo_url: https://github.com/sugutt/blog/
+site_url: https://sugutt.github.io/blog/
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 Jason Liu 
+copyright: Copyright &copy; 2024 Emmanuel Sugutt
 theme:
   name: material
   icon:
